@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct6", "Struct6\Struct6.csproj", "{C23A0EC5-CE73-44D9-BF19-97B0E73B4D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C23A0EC5-CE73-44D9-BF19-97B0E73B4D15}.Debug|x86.ActiveCfg = Debug|x86
+		{C23A0EC5-CE73-44D9-BF19-97B0E73B4D15}.Debug|x86.Build.0 = Debug|x86
+		{C23A0EC5-CE73-44D9-BF19-97B0E73B4D15}.Release|x86.ActiveCfg = Release|x86
+		{C23A0EC5-CE73-44D9-BF19-97B0E73B4D15}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

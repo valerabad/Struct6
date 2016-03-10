@@ -1,0 +1,9 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Struct6\bin\Debug\Struct6.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Struct6\bin\Debug\Struct6.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Struct6\obj\x86\Debug\Struct6.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Struct6\obj\x86\Debug\Struct6.pdb
+C:\Users\HP\Desktop\Course\Struct6\Struct6\obj\x86\Debug\Struct6.exe
+C:\Users\HP\Desktop\Course\Struct6\Struct6\obj\x86\Debug\Struct6.pdb
+C:\Users\HP\Desktop\Course\Struct6\Struct6\bin\Debug\Struct6.exe
+C:\Users\HP\Desktop\Course\Struct6\Struct6\bin\Debug\Struct6.pdb
+C:\Users\HP\Desktop\Course\Struct6\Struct6\obj\x86\Debug\Struct6.csprojResolveAssemblyReference.cache
